@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Monitor.Communication/Monitor.Communication.csproj" />
+  <Project Path="Monitor.Models/Monitor.Models.csproj" />
+  <Project Path="Monitor.UI/Monitor.UI.csproj" />
+  <Project Path="Simulator.Slave/Simulator.Slave.csproj" />
+</Solution>
